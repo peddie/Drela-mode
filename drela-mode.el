@@ -618,3 +618,4 @@ is not a space"
     num-skipped))
 
 
+(provide 'drela-mode)
